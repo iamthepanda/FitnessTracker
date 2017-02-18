@@ -14,7 +14,6 @@
 
     <com.shamanland.fab.FloatingActionButton
         android:id="@+id/add_week_button"
-        android:viewName="add_week_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|right"
